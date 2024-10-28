@@ -4,7 +4,8 @@
 - 💞️ I’m looking to collaborate on any coding project
 - 📫 How to reach me: you can message me here
 - 😄 Pronouns: he/him
-- ⚡ Fun fact: I learned my first programming language when i was 7.
+- ⚡ Fun fact: I started programming when i was 7
+
 
 <!---
 Harsha-Kal/Harsha-Kal is a ✨ special ✨ repository because its `README.md` (this file) appears on your GitHub profile.
